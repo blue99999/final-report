@@ -147,7 +147,7 @@ LGB（LightGBM，Light Gredient Boosting Machine）
 
 1.8 風控系統架構
 
-![image]()
+![image](https://github.com/blue99999/final-report/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-03%20161738.png)
 
 1.9 小结
 信贷业务的基本流程：
