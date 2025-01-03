@@ -2,6 +2,7 @@
 1 信貸業務審批流程
 ![image](https://github.com/blue99999/final-report/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-03%20153437.png)
 ![image](https://github.com/blue99999/final-report/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202025-01-03%20160025.png)
+
 准入策略、信用風險策略、反欺詐策略：一系列的if-else條件，滿足條件可以繼續進行下一步，不滿足條件就直接拒絕。
 
 1.1 互聯網金融風控體系組成
